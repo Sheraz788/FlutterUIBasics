@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_basics/Posts/SinglePost.dart';
+import 'package:flutter_ui_basics/UserProfileUI/Posts/SinglePost.dart';
 
 class MyPosts extends StatelessWidget {
   const MyPosts({super.key});

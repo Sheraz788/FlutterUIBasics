@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_basics/AppBar/MyAppBar.dart';
-import 'package:flutter_ui_basics/MyProfile/MyProfile.dart';
-import 'package:flutter_ui_basics/Posts/MyPosts.dart';
-import 'colors/AppStyles.dart';
+import 'package:flutter_ui_basics/UserProfileUI/AppBar/MyAppBar.dart';
+import 'package:flutter_ui_basics/UserProfileUI/MyProfile/MyProfile.dart';
+import 'package:flutter_ui_basics/UserProfileUI/Posts/MyPosts.dart';
+import 'UserProfileUI/colors/AppStyles.dart';
+
 
 
 void main() {
