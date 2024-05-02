@@ -19,7 +19,7 @@ class MyAppBar extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           
-          Text("Profile", style: titleText,),
+          Text("Flutter", style: titleText,),
           
           Icon(Icons.search, size: 30,)
         ],

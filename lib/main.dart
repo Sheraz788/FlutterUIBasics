@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: black,
+        backgroundColor: light_blue_3f4959,
         body: ListView(
           children:  const [
             Stack(
