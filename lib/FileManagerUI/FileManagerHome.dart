@@ -15,6 +15,7 @@ class FileManagerHome extends StatelessWidget {
         body: Column(
           children: [
             FileManagerAppBar(),
+            SizedBox(height: 15,),
             FileManagerBody()
           ],
         ),
